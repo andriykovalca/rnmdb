@@ -86,7 +86,7 @@ class Home extends Component {
                       
                       
                     ))}
-                    <Button href="/characters" text="View all"></Button>
+                    <Button href="/characters" text="All characters"></Button>
                     
                   </div>
               </div>
@@ -103,7 +103,7 @@ class Home extends Component {
                       
                       
                     ))}
-                    <Button href="/episodes" text="View all"></Button>
+                    <Button href="/episodes" text="All episodess"></Button>
                     
                   </div>
                 </div>  
