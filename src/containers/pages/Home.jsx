@@ -108,14 +108,6 @@ class Home extends Component {
                   </div>
                 </div>  
             </section>
-
-            <section className="Locations">
-                <div className="container">
-                    <h2>Locations:</h2>
-                </div>  
-            </section>
-            
-
           
         <Footer />
   
